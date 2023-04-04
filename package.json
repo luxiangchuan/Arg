@@ -4,7 +4,7 @@
   "description": "Express Hello World",
   "main": "server.js",
   "repository": "https://github.com/luxiangchuan/Arg",
-  "author": "fscarmen",
+  "author": "luxiangchuan",
   "license": "MIT",
   "private": false,
   "scripts": {
